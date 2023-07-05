@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Ana Carolina Barbosa 👋
 
-- 🔭 Hoje trabalho com Front-end
+- 🔭 Hoje trabalho com Back - end
 - 🌱 Estudando SQL
-- 📫 Email: ana_taqua_sk8@hotmail.com
+- 📫 Email: carolinbarbosa12@gmail.com
 - 😄 Pronouns: ela\dela
 
 <div align = "centro">
