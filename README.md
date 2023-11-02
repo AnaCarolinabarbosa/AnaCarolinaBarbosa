@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Carolina Barbosa 👋
 
-- 🔭 Hoje trabalho com Back - end
+- 🔭 Hoje trabalho com Front - end e Banco de Dados.
 - 🌱 Estudando SQL
 - 📫 Email: carolinbarbosa12@gmail.com
 - 😄 Pronouns: ela\dela
