@@ -37,7 +37,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente atuali
 ---
 
 ## 🛠️ Habilidades e Tecnologias
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>   <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
 
 
 ---
