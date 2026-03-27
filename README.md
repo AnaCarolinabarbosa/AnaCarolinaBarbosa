@@ -1,7 +1,7 @@
 # 💻 Programadora Back-end 
 
 ## 🚀 Minha Trajetória
-Olá! Me chamo Ana Carolina Barbosa, sou desenvolvedora back-end com experiência sólida em Python, SQL,  APIs RESTful com FastAPI e integração com MySQL.
+Olá! Me chamo Ana Carolina Barbosa, sou desenvolvedora back-end com experiência sólida em Python, SQL,  APIs RESTful com FastAPI, C# e integração com MySQL.
 Estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <img align="center" alt="" src="./src/header-gif.gif">
@@ -37,7 +37,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente atuali
 ---
 
 ## 🛠️ Habilidades e Tecnologias
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/-Firebird-EE2C2C?style=flat-square&logo=firebird&logoColor=white" /> <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+<img class="w-auto h-auto  max-w-full" style="width:auto;height:auto;" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="ícone de Python logo" title="ícone de Python logo">  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
 
 ---
