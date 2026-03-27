@@ -1,7 +1,7 @@
 # 💻 Programadora Back-end 
 
 ## 🚀 Minha Trajetória
-Olá! Me chamo Ana Carolina Barbosa, sou desenvolvedora back-end com experiência sólida em C# .NET, SQL e integração com Firebase.
+Olá! Me chamo Ana Carolina Barbosa, sou desenvolvedora back-end com experiência sólida em Python, SQL,  APIs RESTful com FastAPI e integração com MySQL.
 Estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <img align="center" alt="" src="./src/header-gif.gif">
